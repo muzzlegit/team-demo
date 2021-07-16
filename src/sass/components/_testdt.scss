@@ -1,0 +1,11 @@
+.testdt {
+  min-width: 500px;
+  min-height: 200px;
+  text-align: center;
+  &__title {
+    font-size: 14px;
+    line-height: 1.87;
+    color: rgb(244, 248, 25);
+    background-color: rgb(81, 14, 189);
+  }
+}
